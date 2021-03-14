@@ -33,7 +33,7 @@ class Email
         $this->mail->Host = "smtp.sendgrid.net";
         $this->mail->Port = 587;
         $this->mail->Username = "apikey";
-        $this->mail->Password = "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";
+        $this->mail->Password = "";
     }
 
     /**
